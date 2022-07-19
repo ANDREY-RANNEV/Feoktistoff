@@ -3,6 +3,10 @@
 		{
 			"name": "Feoktistoff",
 			"path": "."
+		},
+		{
+			"name": "Krutilka",
+			"path": "Krutilka"
 		}
 	]
 }
